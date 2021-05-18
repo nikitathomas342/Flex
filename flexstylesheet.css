@@ -1,0 +1,18 @@
+.flex-container {
+    display:flex;
+}
+.inline-flex-container {
+    display:inline-flex;
+}
+.bg-red {
+    background: red;
+}
+.bg-blue {
+    background-color: skyblue;
+}
+.flex-container>div {
+    background-color: darkgrey;
+    margin: 10px;
+    padding: 10px;
+    font-size:30px;
+}
